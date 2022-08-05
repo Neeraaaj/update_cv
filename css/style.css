@@ -126,7 +126,7 @@ p{
 
 .useless-row h3{
     position: relative;
-    left: 100px;
+    left: 30.5%;
     width: 60%;
     top: 195px;
 }
@@ -140,7 +140,7 @@ p{
 .useless-row p{
     position: relative;
     /* left: 15%; */
-    width: 30%;
+    width: 25%;
     word-wrap: break-word;
     left: 30.5%;
     top: -190px;
