@@ -126,7 +126,7 @@ p{
 
 .useless-row h3{
     position: relative;
-    left: 20.5%;
+    left: 0px;
     width: 60%;
     top: 195px;
 }
@@ -134,7 +134,7 @@ p{
 .useless-row .figma {
     position: relative;
     max-width: 35%;
-    left: 59%;
+    left: 30%;
 }
 
 .useless-row p{
